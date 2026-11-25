@@ -1,0 +1,2 @@
+Para abrir, execute abrir-site.bat nesta pasta.
+O site sera aberto em http://127.0.0.1:8001
